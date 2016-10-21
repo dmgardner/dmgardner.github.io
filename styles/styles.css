@@ -1,0 +1,20 @@
+body	{
+	background: white;
+	margin: 0px 0px;
+}
+.header	{
+	background-image: url("http://thiswallpaper.com/cdn/hdwallpapers/978/city%20white%20lights%20top%20hd%20new%20wallpaper.jpg");
+ 	background-size:cover;
+ 	position:absolute;
+	height: 400px;
+	text-align:center;
+	width: 100%;
+	color: white;
+	font-size: 36p
+}
+.button	{
+	height: 100px;
+	width: 300px;
+	background: green;
+	border: 2px solid rgba(237,105,114,1);
+}
